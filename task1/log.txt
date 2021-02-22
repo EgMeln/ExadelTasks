@@ -1,0 +1,5 @@
+commit cd14e14d5c71105f7735e7738f102109fa211735 (HEAD -> master)
+Author: EgMeln <Egmell@yandex.ru>
+Date:   Mon Feb 22 18:49:10 2021 +0300
+
+    add .gitignore
