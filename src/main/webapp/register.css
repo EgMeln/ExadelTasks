@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.footer{
+    background-color: rgb(255, 244, 244);
+    display: flex;
+    justify-content: center;
+  }
+.footer{
+    border: 2px solid black;
+    display: flex;
+    background-color: rgb(255,244,244);
+  }
+.user{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 120%;
+    padding-left: 75%;
+  }
+  .main{
+    display: flex;
+  }
+  .filter{
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: rgb(255, 244, 244);
+    width: 500px;
+    height: 514px;
+    margin-left: 20%;
+    top: 100%;
+    font-size: 20px;
+    padding-top: 120px ;
+  }
+  .form-input{
+      display: block;
+      font-size: 25px;
+  }
+.dog_logo{
+    margin-left: 30%;
+    height: 350px;
+    align-self: center;
+    }
+    .button{
+        margin:auto;
+        margin-bottom: 10px;
+        display: block;
+        font-size: 100%;
+        color: white;
+        text-decoration: none;
+        padding: .3em 1em;
+        outline: none;
+        border-width: 2px 0;
+        border-style: solid none;
+        border-color: #5f5338 #000 #D77206;
+        border-radius: 6px;
+        background: linear-gradient(rgb(238, 180, 180), #ff8f8f) #ff8f8f;
+        transition: 0.2s;
+        margin-top: 15px;
+        
+       } 
+.form{
+padding-left: 35px;
+padding-top: 20px;
+}
