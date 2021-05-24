@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    border: 2px solid black;
+    display: flex;
+    background-color: rgb(255,244,244);
+    height: 40px;
+    justify-content: center;
+    align-content: center;
+}
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.fon{
+    background-image: url('./assets/images/dog_fon.png');
+    height: 635px;
+
+}
+.error{
+    text-align: center;
+    position:absolute;
+    top:35%;
+    font-size: 100px;
+}
